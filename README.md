@@ -51,11 +51,6 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ---
 
-## 📞 Contato
-
-Dúvidas? Sugestões? Entre em contato:
-
-- [Seu perfil no GitHub](https://github.com/leandroFilipy)
 
 ---
 
